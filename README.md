@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Claudio !!!
 
----
+
 I'm a self-employed software developer with 15 years of experience developing software. I'm passionate about creating smart and clean solutions from scratch. 
 For the last 6 years, I’ve been delivering solutions with .Net -- to connect banks and notary offices.  
 
