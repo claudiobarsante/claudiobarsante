@@ -26,7 +26,7 @@ What I'm currently reading 📚
 
 ## &#x1f4c8; My GitHub Stats
 [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobarsante&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compact&show_icons=true&theme=dark&hide=Java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compact&show_icons=true&theme=dark&hide=Java,Ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **claudiobarsante/claudiobarsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
