@@ -21,6 +21,12 @@ What I'm currently reading 📚
 
 📗 <a href='https://14habits.com/'>14 habits of highly productive developers</a> by Zeno Rocha</br>
 📘 <a href='https://www.goodreads.com/book/show/56277836-the-standout-career'>The standout career</a> by Randall Kanna
+
+---
+## &#x1f4c8; My GitHub Stats
+[![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobarsante&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 <!--
 **claudiobarsante/claudiobarsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
