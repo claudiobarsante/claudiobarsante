@@ -1,4 +1,14 @@
-### Hi there 👋, 
+### Hi there 👋, I'm Claudio !!!
+
+---
+I'm a self-employed software developer with 15 years of experience developing software. I'm passionate about creating smart and clean solutions from scratch. 
+For the last 6 years, I’ve been delivering solutions with .Net -- to connect banks and notary offices.  
+
+- 🌱 Now I'm more focused on the front-end with React and mobile developement with React Native. 
+
+- 🔭 I’m currently working on an app to help bailiffs to report the progress of notifications and reduce the subpoena process time
+
+
 
 <!--
 **claudiobarsante/claudiobarsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
