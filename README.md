@@ -27,8 +27,8 @@ In my work I strive to create beauty, deliver delight, simplify the complex and 
 
 ## &#x1f4c8; My GitHub Stats
 [![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobarsante&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compacte&show_icons=true&theme=tokyonight&hide=Java,Ruby,Objective-c)](https://github.com/anuraghazra/github-readme-stats)
-[![Claudio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claudiobarsante)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compact&show_icons=true&theme=tokyonight&hide=Java,Ruby,Objective-c)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
