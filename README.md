@@ -5,7 +5,7 @@ I'm a self-employed software developer with 15 years of experience developing so
 
 In my work I strive to create beauty, deliver delight, simplify the complex and make technology more human 🤓.  
 
-- 🌱 Now I'm more focused on the front-end with React and mobile development with React Native. 
+- 🌱 Now I'm more focused on the front-end with React,Next and mobile development with React Native. 
 
 - 🔭 I’m currently working on an app to help bailiffs to report the progress of notifications and reduce the subpoena process time
 
