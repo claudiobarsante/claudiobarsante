@@ -9,6 +9,8 @@ In my work I strive to create beauty, deliver delight, simplify the complex and 
 
 - 🔭 I’m currently working on an app to help bailiffs to report the progress of notifications and reduce the subpoena process time
 
+- 🐶and as a side project a website for people who wants to adopt a pet🐈
+
 ---
 
 ### 🧰 Toolbox
