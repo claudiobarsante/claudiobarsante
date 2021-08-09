@@ -26,8 +26,8 @@ In my work I strive to create beauty, deliver delight, simplify the complex and 
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobarsante&count_private=true&show_icons=true&theme=dark)](https://github.com/claudiobarsante/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compacte&show_icons=true&theme=dark&hide=Java,Ruby,Objective-c)](https://github.com/claudiobarsante/github-readme-stats)
+[![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiobarsante&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/claudiobarsante/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobarsante&layout=compacte&show_icons=true&theme=tokyonight&hide=Java,Ruby,Objective-c)](https://github.com/claudiobarsante/github-readme-stats)
 
 <!--
 **claudiobarsante/claudiobarsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
