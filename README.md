@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Claudio !!!
 
 
-I'm a self-employed software developer with 15 years of experience developing software.
+I'm a self-employed software developer with more than 10 years of experience developing software.
 
 I strive to create user-friendly applications, simplify the complex, and make technology more human in my work 🤓.  
 
