@@ -1,11 +1,15 @@
 ### Hi there 👋, I'm Claudio !!!
 
+•	Having spent a solid decade in software engineering, I've navigated through desktop apps, and lately, I've been in web development. I also did a mobile app using React Native.
 
-I'm a software developer with 10 years of experience developing software.
+•	Stepping into the role of tech lead at a startup was a pivotal moment in my career. It honed my skills in effective communication, handling pressure, and teamwork and ignited a passion for front-end development.
 
-I strive to create user-friendly applications, simplify the complex, and make technology more human in my work 🤓.  
+•	One of my biggest accomplishments? I completely revamped the workflow between banks and notary offices, streamlining a cumbersome 48-hour process into a swift 2-6-hour task through standardized notarization procedures.
 
-- 🌱 Now I'm more focused on the front-end with React.js and Next.js. 
+•	Around four years ago, I transitioned my focus toward front-end development. In my work, I strive to create intuitive, beautiful interfaces that simplify the complex and make technology more human.
+
+•	Outside of coding, you'll find me catching waves and spending the day at the beach 😎.
+
 
 - 🔭 I’m currently working on an app to help bailiffs to report the progress of notifications and reduce the subpoena process time
 
